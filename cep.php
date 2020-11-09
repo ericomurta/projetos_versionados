@@ -30,12 +30,3 @@ class Cep {
 $obj1 = new Cep('aaaaaa');
 $obj1->local();
 
-/*
-
-Sao Paulo- 01000001","05999999","08000000","08499999"
-Santo André - "09000001","09299999"
-São Bernardo do Campo - "09600001","09899999"
-São Caetano do Sul - "09500001","09599999"
-Guarulhos - "07000001","07399999"
-Aruja - "07400001","07499999"
-*/
